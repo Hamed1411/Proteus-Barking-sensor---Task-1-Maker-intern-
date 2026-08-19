@@ -1,0 +1,6 @@
+# Proteus Temporary & Backup Files
+*.pdsbak
+*.PWI
+*.LOG
+*.Workspace
+*.OBJ
